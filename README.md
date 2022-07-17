@@ -1,2 +1,1 @@
-# IN1000-python
-obliger 
+python projects 
